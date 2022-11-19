@@ -1,1 +1,6 @@
 # GIS
+Background and Objective: This project with the purpose of investigation on some physicochemical properties of Karaj’s water has been accomplished. These parameters are including: Temperature, Dissolved Oxygen, Dissolved Solids, Biochemical Oxygen Demand, Chemical Oxygen Demand, Total Phosphorus, Total Nitrogen, Electrical Conductivity, Chlorophyll a, Turbidity and etc. Finally analysis of statistical relations between this parameters were developed.
+
+Method: To perform the tests and determine the parameters we had 5 months sampling at each stations. Sampling methods and performing of examinations was in accordance with Standards method. Qualitative & quantitative variations were studied during a year and finally, data analysis through SPSS software and Pearson correlation coefficient test were performed.
+
+Discussion and conclusion: According to Iranian DOE quality standard chart of state rivers' water, the range of changes in dissolved solids and dissolved oxygen in water is in optimum extent. But, Biochemical Oxygen Demand of water is in maximum permitted amount. There are meaningful relations in confidence extent of P<0.05 or P<0.01 between some studied parameters from statistical relations point of view. 
